@@ -1,5 +1,5 @@
 {
-  "name": "@thaanees/react-box-spacing",
+  "name": "@thaanees11/react-box-spacing",
   "version": "1.0.0",
   "description": "A simple React component to apply padding (p) and margin (m) via props.",
   "main": "src/Box.js",
