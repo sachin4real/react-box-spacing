@@ -1,6 +1,6 @@
-{
-  "name": "@thaanees11/react-box-spacing",
-  "version": "1.0.7",
+k{
+  "name": "react-box-spacing",
+  "version": "1.0.0",
   "description": "A simple React component to apply padding (p) and margin (m) via props.",
   "main": "src/Box.js",
   "scripts": {
@@ -16,15 +16,12 @@
     "component",
     "ui"
   ],
-  "author": "Thaanees",
+  "author": "Sachintha PWE",
   "license": "MIT",
   "peerDependencies": {
     "react": "^17.0.0 || ^18.0.0 || ^19.0.0"
   },
   "dependencies": {
     "generate-api-key": "^1.0.2"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
