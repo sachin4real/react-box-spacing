@@ -1,4 +1,4 @@
-k{
+{
   "name": "react-box-spacing",
   "version": "1.0.0",
   "description": "A simple React component to apply padding (p) and margin (m) via props.",
